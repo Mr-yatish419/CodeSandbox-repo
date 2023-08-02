@@ -7,8 +7,8 @@ CSS,
 Javascript
 
 ## Certificate 
-[DevTown Certificate](https://github.com/Mr-yatish419/CodeSandbox-repo/files/12243009/DevTown.Certificate.pdf) core.autocrlf true
-[Microsoft Certificate](https://github.com/Mr-yatish419/CodeSandbox-repo/files/12243027/Microsoft.Certificate.pdf)
-[Developer Student Clubs Certificate](https://github.com/Mr-yatish419/CodeSandbox-repo/files/12243030/Developer.Student.Clubs.Certificate.pdf)
+*[DevTown Certificate](https://github.com/Mr-yatish419/CodeSandbox-repo/files/12243009/DevTown.Certificate.pdf) core.autocrlf true
+*[Microsoft Certificate](https://github.com/Mr-yatish419/CodeSandbox-repo/files/12243027/Microsoft.Certificate.pdf)
+*[Developer Student Clubs Certificate](https://github.com/Mr-yatish419/CodeSandbox-repo/files/12243030/Developer.Student.Clubs.Certificate.pdf)
 
 
