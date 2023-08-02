@@ -7,7 +7,7 @@ CSS,
 Javascript
 
 ## Certificate
-[DevTown Certificate][DevTown Certificate.pdf](https://github.com/Mr-yatish419/CodeSandbox-repo/files/12243009/DevTown.Certificate.pdf)
+[DevTown Certificate](https://github.com/Mr-yatish419/CodeSandbox-repo/files/12243009/DevTown.Certificate.pdf)
 [Microsoft Certificate](https://github.com/Mr-yatish419/CodeSandbox-repo/files/12243027/Microsoft.Certificate.pdf)
 [Developer Student Clubs Certificate](https://github.com/Mr-yatish419/CodeSandbox-repo/files/12243030/Developer.Student.Clubs.Certificate.pdf)
 
